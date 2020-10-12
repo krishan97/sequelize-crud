@@ -8,7 +8,7 @@
 $ npm install
 
 # development
-$ npm run start
+$ npm start
 
 
 ```

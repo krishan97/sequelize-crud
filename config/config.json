@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "sample",
+    "password": "sample123456",
+    "database": "sample",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  }, 
+  "test": {
+    "username": "sample",
+    "password": "sample123456",
+    "database": "sample",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  },
+  "production": {
+    "username": "sample",
+    "password": "sample123456",
+    "database": "sample",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "logging": false
+  }
+}
